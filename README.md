@@ -30,10 +30,15 @@ Skin Lesion Analysis Toward Melanoma Detection: A Challenge at the 2017 Internat
 - class_mode (categorical)
 - color_mode (rgb)
 
+![Screenshot (292)](https://user-images.githubusercontent.com/64590037/145890151-6d8d3f42-e266-4a98-97c2-d6f1afa5afc5.png)
+
 # MODEL YANG DIGUNAKAN
 -MODEL 1
 - menggunakan pretrained model (MobileNetV2, DenseNet121)
 - untuk melakukan balencing dataset, tidak memungkinkan karena dataset saya menggunakan flow for directory, kecuali menggunakan flow saja
-- 
+![Screenshot (293)](https://user-images.githubusercontent.com/64590037/145890273-ef08a6e1-bc65-4a56-af78-af8f253f3b54.png)
 
+![Screenshot (294)](https://user-images.githubusercontent.com/64590037/145890441-996c3ec8-9096-4c2e-8090-be774686171a.png)
+
+![Screenshot (295)](https://user-images.githubusercontent.com/64590037/145890473-c6dd7eda-f208-4919-9d83-844b20d1e686.png)
 
